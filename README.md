@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This route planning project computes the shortest path between two points in a map using A* search algorithm. Solely, built using C++, this project is implemented making use of pointers, references, and Object Oriented Programming priciples in C++ programming language. OpenStreetMap map is used here, and to render the map data, a 2D graphic rendering library named IO2D is used. When the user provides co-ordinates of starting and ending points as inputs, a shortest path is computed and renderd into the map as shown in the image below.
 
 <img src="map.png" width="600" height="450" />
 
